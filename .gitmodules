@@ -1,0 +1,9 @@
+[submodule "IBM-Python-Project-for-Data-Science"]
+	path = IBM-Python-Project-for-Data-Science
+	url = https://github.com/caiombueno/IBM-Python-Project-for-Data-Science.git
+[submodule "IBM-Tools-for-Data-Science-Peer-Graded-Assignment"]
+	path = IBM-Tools-for-Data-Science-Peer-Graded-Assignment
+	url = https://github.com/caiombueno/IBM-Tools-for-Data-Science-Peer-Graded-Assignment.git
+[submodule "IBM-Applied-Data-Science-Capstone"]
+	path = IBM-Applied-Data-Science-Capstone
+	url = https://github.com/caiombueno/IBM-Applied-Data-Science-Capstone.git
